@@ -1,0 +1,46 @@
+.container{
+
+	     background-color: #5a9acd;
+	     color: white; 
+         font-size: 20px;
+         text-align: left;
+         height: 800px;
+	     width: 800px;
+	     margin: auto;
+	     padding-left: 7px;
+	     padding-top: 7px;
+	     border: 3px solid black;
+
+	}    
+
+	     
+
+h1{
+	        text-align: center;
+	        font-size: 35Px;
+
+	}        
+
+.heading{
+	display: table-cell;
+	vertical-align: inherit;
+ }	
+
+h2{
+	text-align: center;
+	font-size: 30px;
+	color: #2dbfbc;
+	padding-top: 70px;
+  }	
+
+p{
+	text-align: center;
+    font-size: 35px;
+    color: #bf2d6d;
+   
+  }	
+
+body{
+      text-align: center;  
+    }
+    
